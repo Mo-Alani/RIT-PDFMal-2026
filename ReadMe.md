@@ -69,7 +69,7 @@ You can find the details of the features description in the file named **feature
 ## *Citation Information*
 If you'd like to use this dataset in your research, please cite the following paper that introduced the dataset:
 
-Mohammed M. Alani, Ernesto Damiani, *RIT-PDFMal-2026: A Comprehensive Benchmark Dataset for PDF Malware Detection*, IEEE Access, 2026.
+Mohammed M. Alani, Ernesto Damiani, [*RIT-PDFMal-2026: A Comprehensive Benchmark Dataset for PDF Malware Detection*](https://doi.org/10.1109/ACCESS.2026.3707213), IEEE Access, 2026.
 
     @article{alani2026ritpdf,
       title={RIT-PDFMal-2026: A Comprehensive Benchmark Dataset for PDF Malware Detection},
